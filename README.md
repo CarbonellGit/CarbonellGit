@@ -34,7 +34,7 @@ Consolidamos nossa arquitetura utilizando as seguintes tecnologias para garantir
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Workspace-34A853?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Apps_Script-0F9D58?style=for-the-badge&logo=google&logoColor=white" />
 
 ### IA & Integrações
-<img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/RAG_Assistants-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/RAG_Assistants-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
 
 ---
 
