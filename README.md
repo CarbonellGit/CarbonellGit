@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Substitua o src abaixo pela URL real do banner do colégio -->
-  <img src="https://via.placeholder.com/1200x300/F5F5F5/333333?text=Um+novo+mundo+de+%23nPossibilidades+tamb%C3%A9m+na+tecnologia" alt="Banner Colégio Carbonell" />
+  <img src="banner-site-1-enem-1.gif" alt="Banner Colégio Carbonell" />
   
   <br />
   
@@ -27,34 +26,26 @@ Nosso trabalho traduz a missão da instituição para o código:
 
 ## 🛠 Nossa Tech Stack
 
-Nossa arquitetura prioriza excelência, inovação e escalabilidade.
+A partir da análise dos nossos repositórios, consolidamos nossa arquitetura utilizando as seguintes tecnologias para garantir escalabilidade, segurança e inovação:
 
-### Cloud & Infra
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Workspace-34A853?style=for-the-badge&logo=google&logoColor=white" />
+### Linguagens de Programação
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-### Linguagens & Dados
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Apps_Script-0F9D58?style=for-the-badge&logo=google&logoColor=white" />
+### Cloud, Infraestrutura & Automação
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Workspace-34A853?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Apps_Script-0F9D58?style=for-the-badge&logo=google&logoColor=white" />
 
 ### IA & Integrações
 <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/RAG_Assistants-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
 
 ---
 
-## 📌 Repositórios Destaque
+## 👨‍💻 Equipe de TI
 
-Confira algumas de nossas principais soluções em desenvolvimento:
+Nossa equipe trabalha todos os dias para transformar a experiência escolar através do código e da inovação.
 
-- 🛡️ **[`saida-segura`](https://github.com/CarbonellGit/saida-segura)**  
-  Sistema em GCP com leitura de QR Codes para orquestração da saída de alunos, garantindo segurança e redução de impacto sonoro.
-
-- 🤖 **[`laurabot-ai`](https://github.com/CarbonellGit/laurabot-ai)**  
-  Assistente virtual integrado à API do WhatsApp com tecnologia RAG para leitura de informativos escolares e atendimento humanizado às famílias.
-
-- 🔄 **[`financeiro-procurement-sync`](https://github.com/CarbonellGit/financeiro-procurement-sync)**  
-  Automação em Python e Google Apps Script para orçamentos e permissões departamentais integrados ao ecossistema Google Workspace.
-
-- 🌐 **[`infra-as-code`](https://github.com/CarbonellGit/infra-as-code)**  
-  Documentação e configuração da topologia de rede e infraestrutura escolar, projetada para conectividade de alto desempenho.
+- **Jefferson da Silva** — Gestor de TI
+- **Vanessa Lehm** — Tecnologia Educacional
+- **Thiago Marques** — Assistente de TI
 
 ---
 
@@ -62,13 +53,13 @@ Confira algumas de nossas principais soluções em desenvolvimento:
 
 - 🌐 **Site:** [colegiocarbonell.com.br](https://www.colegiocarbonell.com.br/)
 - 📍 **Localização:** Vila Augusta, Guarulhos/SP
-- 💼 **LinkedIn:** [Colégio Carbonell](https://www.linkedin.com/company/colegiocarbonell) *(Substitua pelo link oficial do colégio)*
+- 💼 **LinkedIn:** [Colégio Carbonell](https://www.linkedin.com/company/colegiocarbonell)
 
 ---
 
 ## 🔒 Regras e Contribuição (Equipe Interna)
 
-> Acesso restrito aos colaboradores da TI do Colégio Carbonell.
+> Acesso restrito aos colaboradores da TI do Colégio Carbonell. Nossos repositórios são totalmente privados para garantir a segurança dos dados e da instituição.
 
-- 📖 [Guias de Estilo e Boas Práticas](#) *(Insira o link interno)*
-- 🔗 [Portal do Colaborador (Sistema SAA)](#) *(Insira o link interno)*
+- 📖 [Guias de Estilo e Boas Práticas](#) *(Acesso Interno)*
+- 🔗 [Portal do Colaborador (Sistema SAA)](#) *(Acesso Interno)*
