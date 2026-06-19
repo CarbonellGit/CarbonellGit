@@ -9,7 +9,7 @@
   <br />
 
   <!-- Identidade Institucional -->
-  <p>🏫 <b>Google Reference School</b> &nbsp;|&nbsp; 🎓 <b>#SouCarbonell</b></p>
+  <p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" width="16" height="16" alt="Google" style="vertical-align: text-bottom;" /> <b>Google Reference School</b> &nbsp;|&nbsp; 🎓 <b>#SouCarbonell</b></p>
 </div>
 
 <br />
