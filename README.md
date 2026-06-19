@@ -25,7 +25,7 @@ Nosso trabalho traduz a missão da instituição para o código:
 
 ## 🛠 Nossa Tech Stack
 
-A partir da análise dos nossos repositórios, consolidamos nossa arquitetura utilizando as seguintes tecnologias para garantir escalabilidade, segurança e inovação:
+Consolidamos nossa arquitetura utilizando as seguintes tecnologias para garantir escalabilidade, segurança e inovação:
 
 ### Linguagens de Programação
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -58,4 +58,4 @@ Nossa equipe trabalha todos os dias para transformar a experiência escolar atra
 
 ## 🔒 Regras e Contribuição (Equipe Interna)
 
-> Acesso restrito aos colaboradores da TI do Colégio Carbonell. Nossos repositórios são totalmente privados para garantir a segurança dos dados e da instituição.
+> Nossos repositórios são totalmente privados para garantir a segurança dos dados e da instituição.
