@@ -60,6 +60,3 @@ Nossa equipe trabalha todos os dias para transformar a experiência escolar atra
 ## 🔒 Regras e Contribuição (Equipe Interna)
 
 > Acesso restrito aos colaboradores da TI do Colégio Carbonell. Nossos repositórios são totalmente privados para garantir a segurança dos dados e da instituição.
-
-- 📖 [Guias de Estilo e Boas Práticas](#) *(Acesso Interno)*
-- 🔗 [Portal do Colaborador (Sistema SAA)](#) *(Acesso Interno)*
