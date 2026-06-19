@@ -8,9 +8,8 @@
   
   <br />
 
-  <!-- Selos Institucionais -->
-  <img src="https://img.shields.io/badge/Escola_Refer%C3%AAncia-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Reference School" />
-  <img src="https://img.shields.io/badge/%23-SouCarbonell-FF9900?style=for-the-badge" alt="#SouCarbonell" />
+  <!-- Identidade Institucional -->
+  <p>🏫 <b>Google Reference School</b> &nbsp;|&nbsp; 🎓 <b>#SouCarbonell</b></p>
 </div>
 
 <br />
